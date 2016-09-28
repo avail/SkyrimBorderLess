@@ -4,7 +4,8 @@
 Make sure Skyrim is in Windowed Mode - it can be set in the launcher.
 
 
-You will need to have [SKSE](http://skse.silverlock.org) for this to work.
+You will need to have [SKSE Plugin Preloader](http://www.nexusmods.com/skyrim/mods/75795/?) for this to 
+work.
 
 
 Once built/downloaded, place it in SKSE's plugins directory 
