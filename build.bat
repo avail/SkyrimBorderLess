@@ -1,2 +1,2 @@
-cl /Fe:RIL.BorderLess.asi /Oi /LD /MT borderless.cpp
-copy /y RIL.BorderLess.asi E:\TESV\Data\skse\plugins\Ril.BorderLess.dll
+cl /Fe:RIL.BorderLess.dll /Oi /LD /MT borderless.cpp
+copy /y RIL.BorderLess.dll E:\TESV\Data\skse\plugins\Ril.BorderLess.dll
